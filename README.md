@@ -44,11 +44,6 @@
 
 ## :bar_chart: Meus status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear">  
-</p>
-
 <hr>
 
 <h3 align="center">Entre em contato, estou à disposição :relaxed:</h3>
