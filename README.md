@@ -42,17 +42,13 @@
   </a>
 </div>
 
-## :bar_chart: Meus status
-
-<hr>
-
 <h3 align="center">Entre em contato, estou à disposição :relaxed:</h3>
 <h4 align="center">
-    <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
-    <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:zlucasgcruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/lucas-gomes-backend/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h4>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=zLucasGomes&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=lucas-gomes-backend&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views"></p>
 
 <hr>
 
