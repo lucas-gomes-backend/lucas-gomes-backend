@@ -1,23 +1,23 @@
-<h1 align="center">:star:Oi, eu sou o Lucas:computer:</h1>
+<h1 align="center">:star:Hi, I'm Lucas:computer:</h1>
 
-<h3 align="center">Eu sou um Desenvolvedor de Software, sempre buscando aprender e aprimorar meus conhecimentos.</h3>
-<p align="center">Nas horas vagas eu sou um <s>cinéfilo</s>, amante assíduo de cinema, okie dokie :innocent:</p>
+<h3 align="center">I'm a Software Developer, always looking to learn and improve my skills.</h3>
+<p align="center">In my free time, I'm a <s>movie buff</s>, a passionate cinema lover, okie dokie :innocent:</p>
 
 <br>
 
-## :books: Especializações
+## :books: Specializations
 ![C#](https://img.shields.io/badge/C%23-4e155d?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-662c75?logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-7e428c?style=for-the-badge)
 ![SQLSERVER](https://img.shields.io/badge/SQL_Server-9559a4?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-ad6fbb?logoColor=white&style=for-the-badge)
 
-## :wrench: Ferramentas
+## :wrench: Tools
 ![Git](https://img.shields.io/badge/GIT-000f68?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-011d7a?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-022a8c.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-## 🤓 Eu também sei:
+## 🤓 I also have experience with:
 
 ![MySQL](https://img.shields.io/badge/MySQL-f7df1e?logo=mysql&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eed826?logo=postgresql&logoColor=black&style=for-the-badge)
@@ -34,7 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-898778?logo=bootstrap&logoColor=black&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-808080.svg?style=for-the-badge&logo=pandas&logoColor=black)
 
-## 🏅 Certificações
+## 🏅 Certifications
 
 <div align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LucasCruz-9871/A3867F84F642648D?sharingId">
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h3 align="center">Entre em contato, estou à disposição :relaxed:</h3>
+<h3 align="center">Feel free to reach out, I'm always open to connecting :relaxed:</h3>
 <h4 align="center">
     <a href="mailto:zlucasgcruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/lucas-gomes-backend/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -54,6 +54,6 @@
 
 <hr>
 
-<h3 align="center">Isso é tudo pessoal :wave:</h3>
-<h5 align="center">“Don't give up. Not ever. Not for one single day. Be safe, if you can be. But always be amazing”</h5>
-<h5 align="center">-Clara Oswald, Doctor Who S08EP03: Robot of Sherwood</h5>
+<h3 align="center">That's all folks :wave:</h3>
+<h5 align="center">“Don't give up. Not ever. Not for one single day. Be safe, if you can be. But always be amazing.”</h5>
+<h5 align="center">— Clara Oswald, Doctor Who S08E03: Robot of Sherwood</h5>
