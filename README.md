@@ -42,6 +42,8 @@
   </a>
 </div>
 
+<hr>
+
 <h3 align="center">Entre em contato, estou à disposição :relaxed:</h3>
 <h4 align="center">
     <a href="mailto:zlucasgcruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
